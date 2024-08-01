@@ -12,7 +12,7 @@ def main():
         print("Please enter the node number x：")
         return
 
-    # 读取文件并打印内容
+
     neighbors = []
     nt = "64"
     file_name=input("Please enter the filename:")
